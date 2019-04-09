@@ -14,5 +14,6 @@ public class Main {
         System.out.println(tv);
         tv.turnOn();
         System.out.println(tv);
+        tv.turnOff();
     }
 }
